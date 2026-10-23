@@ -20,12 +20,13 @@ Lomé, Togo · [banarin60@gmail.com](mailto:banarin60@gmail.com) · +228 70 32 8
 
 ## Featured projects
 
-- **[adonis-api-starter](https://github.com/lecodeur228/adonis-api-starter)** — AdonisJS 7 API starter with auth, i18n, roles, file storage, push notifications, OpenAPI, and tests.
+- **[flutter-ui-kit](https://github.com/lecodeur228/flutter-ui-kit)** — Flutter design-system monorepo: a `ui_kit` package and a demo catalogue app.
 - **[ai_image_validator](https://github.com/lecodeur228/ai_image_validator)** — Flutter package that validates images with Gemini against custom classes and a confidence threshold.
+- **[adonis-api-starter](https://github.com/lecodeur228/adonis-api-starter)** — AdonisJS 7 API starter with auth, i18n, roles, Drive, FCM, OpenAPI, and tests. GitHub template.
+- **[Klyp-backend](https://github.com/lecodeur228/Klyp-backend)** — FastAPI backend for Klyp (Vibe Editing Agent): analysis, EditPlan, vibe-edit, render, and credits.
+- **[rodiumai-laravel-sdk](https://github.com/lecodeur228/rodiumai-laravel-sdk)** — Collaborative Laravel SDK for the Rodium AI API (with Docteur-Parfait): OpenAI-compatible access to multiple models, RODI credits, and Mobile Money top-ups.
+- **[challenge-cac](https://github.com/lecodeur228/challenge-cac)** — Laravel API and Vue app for products, suppliers, purchases, sales, and stock, run with Docker Compose.
 - **[scoremaster](https://github.com/lecodeur228/scoremaster)** — Vue.js and Firebase app for live match scores, for referees and spectators.
-- **[yas_carrer](https://github.com/lecodeur228/yas_carrer)** — Recruitment platform for Yas Togo: offers, applications, interviews, notifications, and AI assistance (AdonisJS 7 and Next.js).
-- **[chatapp-web](https://github.com/lecodeur228/chatapp-web)** — Next.js chat client on Firebase Auth and Firestore, with realtime conversations and search.
-- **[rodiumai-laravel-sdk](https://github.com/lecodeur228/rodiumai-laravel-sdk)** — Laravel SDK for the Rodium AI API.
 
 ## Experience
 
